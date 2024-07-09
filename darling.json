@@ -1,0 +1,219 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Luxury Gems Necklace",
+            "precioUnitario": 168.76,
+            "cantidadEnStock": 10,
+            "descripcion": "A beautiful necklace adorned with luxurious gems.",
+            "imagenes": [
+                "../assets/product-1.webp",
+                "../assets/product-1.webp",
+                "../assets/product-1.webp",
+                "../assets/product-1.webp",
+                "../assets/product-1.webp"
+            ],
+            "type": "necklaces",
+           "href": "details-products.html#product1"
+        },
+        {
+            "id": 2,
+            "nombre": "Aurora Ring",
+            "precioUnitario": 125.28,
+            "cantidadEnStock": 15,
+            "descripcion": "An elegant ring that captures the beauty of the aurora.",
+            "imagenes": [
+                "../assets/details-2.jpg",
+                "../assets/details-2.jpg",
+                "../assets/details-2.jpg",
+                "../assets/details-2.jpg",
+                "../assets/details-2.jpg"
+            ],
+            "type": "rings"
+        },
+        {
+            "id": 3,
+            "nombre": "Reflection Necklace",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 5,
+            "descripcion": "A stunning necklace that reflects light beautifully.",
+            "imagenes": [
+                "../assets/product-3.webp",
+                "../assets/product-3.webp",
+                "../assets/product-3.webp",
+                "../assets/product-3.webp",
+                "../assets/product-3.webp"
+            ],
+            "type": "necklaces"
+        },
+        {
+            "id": 4,
+            "nombre": "Dreamy infinity Ring",
+            "precioUnitario": 327.71,
+            "cantidadEnStock": 8,
+            "descripcion": "An infinity ring that symbolizes everlasting love.",
+            "imagenes": [
+                "../assets/product-4.webp",
+                "../assets/product-4.webp",
+                "../assets/product-4.webp",
+                "../assets/product-4.webp",
+                "../assets/product-4.webp"
+            ],
+            "type": "rings"
+        },
+        {
+            "id": 5,
+            "nombre": "Opulent Jewels Ring",
+            "precioUnitario": 168.76,
+            "cantidadEnStock": 12,
+            "descripcion": "A ring adorned with opulent jewels.",
+            "imagenes": [
+                "../assets/product-5.webp",
+                "../assets/product-5.webp",
+                "../assets/product-5.webp",
+                "../assets/product-5.webp",
+                "../assets/product-5.webp"
+            ],
+            "type": "rings"
+        },
+        {
+            "id": 6,
+            "nombre": "Serene Solitaire Earrings",
+            "precioUnitario": 125.28,
+            "cantidadEnStock": 9,
+            "descripcion": "A radiant earring that shines brightly.",
+            "imagenes": [
+                "../assets/details-6.jpg",
+                "../assets/details-6.jpg",
+                "../assets/details-6.jpg",
+                "../assets/details-6.jpg",
+                "../assets/details-6.jpg"
+            ],
+            "type": "earrings"
+        },
+        {
+            "id": 7,
+            "nombre": "Timeless Halo Earrings",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 14,
+            "descripcion": "An elegant necklace for special occasions.",
+            "imagenes": [
+                "../assets/details-7.jpg",
+                "../assets/details-7.jpg",
+                "../assets/details-7.jpg",
+                "../assets/details-7.jpg",
+                "../assets/details-7.jpg"
+            ],
+            "type": "earrings"
+        },
+        {
+            "id": 8,
+            "nombre": "Exquisite Earrings",
+            "precioUnitario": 320.71,
+            "cantidadEnStock": 20,
+            "descripcion": "A timeless earring that never goes out of style.",
+            "imagenes": [
+                "../assets/details-8.jpg",
+                "../assets/details-8.jpg",
+                "../assets/details-8.jpg",
+                "../assets/details-8.jpg",
+                "../assets/details-8.jpg"
+            ],
+            "type": "earrings"
+        },
+        {
+            "id": 9,
+            "nombre": "Timeless Elegance Ring",
+            "precioUnitario": 168.76,
+            "cantidadEnStock": 6,
+            "descripcion": "Ring that dazzle with every movement.",
+            "imagenes": [
+                "../assets/details-9.jpg",
+                "../assets/details-9.jpg",
+                "../assets/details-9.jpg",
+                "../assets/details-9.jpg",
+                "../assets/details-9.jpg"
+            ],
+            "type": "earrings"
+        },
+        {
+            "id": 10,
+            "nombre": "Luxury Charms Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 11,
+            "descripcion": "A pendant that exudes grace and elegance.",
+            "imagenes": [
+                "../assets/product-10.webp",
+                "../assets/product-10.webp",
+                "../assets/product-10.webp",
+                "../assets/product-10.webp",
+                "../assets/product-10.webp"
+            ],
+            "type": "rings" 
+        },
+        {
+            "id": 11,
+            "nombre": "Blissful Bloom Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 7,
+            "descripcion": "A ring that sparkles like starlight.",
+            "imagenes": [
+                "../assets/details-11.jpg",
+                "../assets/details-11.jpg",
+                "../assets/details-11.jpg",
+                "../assets/details-11.jpg",
+                "../assets/details-11.jpg"
+            ],
+            "type": "rings"
+        },
+        {
+            "id": 12,
+            "nombre": "Sparkling Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 13,
+            "descripcion": "Earrings inspired by the beauty of the cosmos.",
+            "imagenes": [
+                "../assets/details-12.jpg",
+                "../assets/details-12.jpg",
+                "../assets/details-12.jpg",
+                "../assets/details-12.jpg",
+                "../assets/details-12.jpg"
+            ],
+            "type": "rings"
+        },
+        {
+            "id": 13,
+            "nombre": "Glimmering Ring",
+            "precioUnitario": 620.73,
+            "cantidadEnStock": 10,
+            "descripcion": "A bracelet that glows with a luminous shine.",
+            "imagenes": [
+                "../assets/details-13.jpg",
+                "../assets/details-13.jpg",
+                "../assets/details-13.jpg",
+                "../assets/details-13.jpg",
+                "../assets/details-13.jpg"
+            ],
+            "type": "rings"
+        }
+    ],
+    "type": [
+        {
+            "id": 1,
+            "nombre": "earrings"
+        },
+        {
+            "id": 2,
+            "nombre": "necklaces"
+        },
+        {
+            "id": 3,
+            "nombre": "rings"
+        },
+        {
+            "id": 4,
+            "nombre": "bracelets"
+        }
+    ],
+    "registroCompras": []
+}
